@@ -1,2 +1,2 @@
 # DNA-sequence
-The program determines the reverse sequence, reverse-complement sequence and calculate the total number of open reading frames(ORF's) from the dna sequence text file. Moreover, it determines how long each ORF is.
+The program determines the reverse sequence, reverse-complement sequence, calculates the total number of open reading frames(ORF's) from the DNA sequence text file, and determines how long each ORF is.
